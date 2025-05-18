@@ -1,0 +1,9 @@
+body{
+    background-color: #faf8dd;
+}
+header {
+    background-image: url('../img/mythology.png');
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+}
